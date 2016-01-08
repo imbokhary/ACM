@@ -1,6 +1,6 @@
 /*	
- *	UVA 272
- *	TEX Quotes
+ *	UVA 11498
+ *	Division of Nlogonia
  *	Author: Imam Mohammad Bokhary
  */
 

@@ -1,6 +1,6 @@
 /*	
- *	UVA 272
- *	TEX Quotes
+ *	UVA 11547
+ *	Automatic Answer
  *	Author: Imam Mohammad Bokhary
  */
 
