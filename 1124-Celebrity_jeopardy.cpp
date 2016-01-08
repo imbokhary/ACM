@@ -1,6 +1,6 @@
 /*	
- *	UVA 272
- *	TEX Quotes
+ *	UVA 1124
+ *	Celebrity jeopardy
  *	Author: Imam Mohammad Bokhary
  */
 
